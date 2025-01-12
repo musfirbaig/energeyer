@@ -8,7 +8,7 @@ import { TeamSection } from "./team-section"
 export default function SyntheticV0PageForDeployment() {
   return <main>
   <SolutionsGrid />
-    <TeamSection />
+    {/* <TeamSection /> */}
   <ContactSection />
   
   </main>
