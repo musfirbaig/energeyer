@@ -64,7 +64,7 @@ export function ContactSection() {
                   </div>
                   <div className="flex items-center gap-3 text-gray-300">
                     <MapPin className="h-5 w-5 text-blue-400" />
-                    <p>1C4-G, Building 01, National Science and Technology Park NSTP, NUST Campus, Sector H-12, Islamabad</p>
+                    <p>Regional plan 9, PITB, NASTP Rawalpindi, old airport.</p>
                   </div>
                 </div>
               </CardContent>
