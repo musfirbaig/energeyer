@@ -45,7 +45,7 @@ const teamMembers = [
     {
       name: "Mr. Tetsuya Wada",
       role: "CEO",
-      bio: "E-Triangle Automation",
+      bio: "Chem Vision Co., Ltd",
     image: "/statics/Picture21.jpg",
     social: {
         linkedin: "#",
@@ -57,7 +57,7 @@ const teamMembers = [
     {
       name: "Mr. Masroor A. Khan",
       role: "President",
-      bio: "E-Triangle Automation",
+      bio: "AEE Pakistan",
     image: "/statics/Picture22.jpg",
     social: {
         linkedin: "#",
