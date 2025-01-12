@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { cn } from "@/lib/utils"
 import { useState } from "react"
+import Link from 'next/link'
 
 export default function SolutionsGrid() {
   const [hoveredCard, setHoveredCard] = useState<number | null>(null)
@@ -146,7 +147,7 @@ export default function SolutionsGrid() {
                   variant="default"
                   className="flex-1 bg-blue-500 hover:bg-blue-600"
                 >
-                  Request Demo
+                  <Link href={'#contact'}>Request Demo</Link>
                 </Button>
                 <Button
                   variant="outline"
